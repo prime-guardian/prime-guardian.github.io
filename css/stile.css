@@ -13,3 +13,6 @@ body{
     background: black;
     z-index: 999999;
 }
+#menu{
+   font-size:larger; 
+}
