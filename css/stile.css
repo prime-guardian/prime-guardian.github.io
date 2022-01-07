@@ -1,0 +1,15 @@
+.icone{
+    background-color: black;
+    color: black;
+}
+body{
+    color: white;
+}
+#fine{
+    position:fixed;
+    bottom: 0px;
+    height: 80px;
+    width: 100%;
+    background: black;
+    z-index: 999999;
+}
